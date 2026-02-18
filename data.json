@@ -1,0 +1,116 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "name": "الدورة المجانية",
+      "subject": "الوحدة الأولى - كاملة",
+      "image": "https://k.top4top.io/p_3599yg6t41.png?v=1",
+      "isPaid": false,
+      "classes": [
+        {
+          "name": "دروس الوحدة الأولى",
+          "lectures": [
+            {
+              "title": "المحاضرة 1: مقدمة الوحدة",
+              "description": "شرح مفصل لبداية الوحدة الأولى - مجاني",
+              "url": "https://youtu.be/49T9Qt2dmdQ"
+            },
+            {
+              "title": ":",
+              "description": "",
+              "url": "https://dai.ly/k1Tvz6dASb2z2bEQcXE"
+            },
+            {
+              "title": ":",
+              "description": "",
+              "url": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "قسم المحاضرات",
+      "subject": "المنهج الكامل للطلاب المشتركين",
+      "image": "https://k.top4top.io/p_3599yg6t41.png?v=1",
+      "isPaid": true,
+      "classes": [
+        {
+          "name": "الوحدة الأولى (كاملة)",
+          "lectures": [
+            {
+              "title": "المحاضرة 1",
+              "description": "خاص بالمشتركين",
+              "url": "https://example.com/lecture1.m3u8"
+            }
+          ]
+        },
+        {
+          "name": "الوحدة الثانية",
+          "lectures": [
+            {
+              "title": "المحاضرة 1",
+              "description": "خاص بالمشتركين",
+              "url": "https://example.com/lecture2.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "قسم أساسيات اللغة الإنكليزية",
+      "subject": "تقوية الأساسيات من الصفر",
+      "image": "https://j.top4top.io/p_35986jxil1.jpg?v=1",
+      "isPaid": true,
+      "classes": [
+        {
+          "name": "الأساسيات",
+          "lectures": [
+            {
+              "title": "الدرس 1: الأزمنة",
+              "description": "خاص بالمشتركين",
+              "url": "https://example.com/basic1.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "قسم الأدب",
+      "subject": "شرح الأدب والقطع الأدبية",
+      "image": "https://b.top4top.io/p_3598ea0jg1.png?v=1",
+      "isPaid": true,
+      "classes": [
+        {
+          "name": "الأدب",
+          "lectures": [
+            {
+              "title": "محمد خضير",
+              "description": "خاص بالمشتركين",
+              "url": "https://example.com/lit1.m3u8"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "title": "ملزمة المنهج الكاملة",
+      "subject": "قسم الملازم",
+      "image": "https://i.ibb.co/P9zYm8y/main-lectures.jpg",
+      "url": "https://example.com/book.pdf"
+    }
+  ],
+  "exams": [
+    {
+      "title": "امتحان المستوى",
+      "subject": "قسم الاختبارات",
+      "image": "https://i.ibb.co/nnhbW3X/literature.jpg",
+      "url": "https://example.com/exam"
+    }
+  ]
+}
